@@ -2,7 +2,7 @@
 
 > Анализ эффективности 5 маркетинговых каналов для оптимизации распределения бюджета и повышения ROI
 
-[![Tableau Dashboard](https://public.tableau.com/views/MarketingChannelsPerformance/MarketingChannelsPerformanceAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[![Tableau Dashboard](https://img.shields.io/badge/Tableau-Смотреть%20дашборд-orange?style=for-the-badge&logo=tableau)] (https://public.tableau.com/views/MarketingChannelsPerformance/MarketingChannelsPerformanceAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
