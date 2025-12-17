@@ -2,7 +2,7 @@
 
 > Анализ эффективности 5 маркетинговых каналов для оптимизации распределения бюджета и повышения ROI
 
-[![Tableau Dashboard](https://img.shields.io/badge/Tableau-Смотреть%20дашборд-orange?style=for-the-badge&logo=tableau)](https://public.tableau.com/views/MarketingChannelsPerformance/MarketingChannelsPerformanceAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[![Tableau Dashboard](https://img.shields.io/badge/Tableau-Смотреть%20дашборд-pink?style=for-the-badge&logo=tableau)](https://public.tableau.com/views/MarketingChannelsPerformance/MarketingChannelsPerformanceAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ---
 
 ## Обзор проекта
@@ -24,14 +24,6 @@
  **Органический трафик дает 100% рентабельность** при нулевой стоимости привлечения
 
 **Рекомендация:** Перераспределить 30% бюджета Instagram на Email-маркетинг для увеличения общего ROI на ~25%
-
----
-
-##  Технологии
-
-- **SQL (BigQuery)** - Очистка данных, агрегация и расчет метрик
-- **Tableau Public** - Создание интерактивных дашбордов и визуализация
-- **Google Sheets** - Валидация данных и предварительный анализ
 
 ---
 
@@ -119,7 +111,7 @@ marketing-channels-analysis/
 ##   Контакты
 
 **Ирина Дмитриева**
-- 💼 LinkedIn: [Ваш профиль](https://www.linkedin.com/in/irinadm/)
+- 💼 LinkedIn: [Профиль](https://www.linkedin.com/in/irinadm/)
 - 📧 Email: irene.dm.alex@gmail.com
 - 📊 Tableau: [Все дашборды](https://public.tableau.com/app/profile/irina.dmitrieva/vizzes)
 
